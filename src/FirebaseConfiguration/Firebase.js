@@ -6,12 +6,13 @@ import { getAuth } from 'firebase/auth';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: process.env.REACT_APP_FIREBASE_API_KEY,
-  authDomain: 'volunteermanagement-39e07.firebaseapp.com',
-  projectId: 'volunteermanagement-39e07',
-  storageBucket: 'volunteermanagement-39e07.appspot.com',
-  messagingSenderId: '130368023371',
-  appId: process.env.REACT_APP_FIREBASE_API_ID,
+  apiKey: "AIzaSyDK-8IoDZ31wL7cUWOrluNVL7iOhtQ1XBs",
+  authDomain: "hopecentrevms.firebaseapp.com",
+  projectId: "hopecentrevms",
+  storageBucket: "hopecentrevms.appspot.com",
+  messagingSenderId: "925841915870",
+  appId: "1:925841915870:web:a803aaddf6fb123fc0a74f",
+  measurementId: "G-PFF2XFGJH2"
 };
 
 // Initialize Firebase
