@@ -6,13 +6,12 @@ import { getAuth } from 'firebase/auth';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDK-8IoDZ31wL7cUWOrluNVL7iOhtQ1XBs",
-  authDomain: "hopecentrevms.firebaseapp.com",
-  projectId: "hopecentrevms",
-  storageBucket: "hopecentrevms.appspot.com",
-  messagingSenderId: "925841915870",
-  appId: "1:925841915870:web:a803aaddf6fb123fc0a74f",
-  measurementId: "G-PFF2XFGJH2"
+  apiKey: 'AIzaSyDK-8IoDZ31wL7cUWOrluNVL7iOhtQ1XBs',
+  authDomain: 'hopecentrevms.firebaseapp.com',
+  projectId: 'hopecentrevms',
+  storageBucket: 'hopecentrevms.appspot.com',
+  messagingSenderId: '925841915870',
+  appId: '1:925841915870:web:a803aaddf6fb123fc0a74f',
 };
 
 // Initialize Firebase
